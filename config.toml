@@ -1,0 +1,44 @@
+baseurl = "https://cryptoyc.github.io"
+DefaultContentLanguage = "en"
+title = "CryptoYC"
+publishDir = "docs"
+theme = "beautifulhugo"
+
+
+[Params]
+subtitle = "Redefine Tomorrow"
+# 在themes/static/img中替换logo
+logo = "img/avatar-icon.png" 
+# 在themes/static/img中替换favicon
+favicon = "img/favicon.ico"
+dateFormat = "January 1, 2006"
+commit = true
+rss = true
+comments = true
+readingTime = true
+wordCount = true
+useHLJS = true
+socialShare = true
+delayDisqus = true
+showRelatedPosts = true
+
+
+[Author]
+name = "CryptoYC"
+website = "https://www.cryptoyc.com"
+email = "contact@cryptoyc.com"
+github = "CryptoYC"
+facebook = "CryptoYC"
+twitter = "CryptoYC"
+telegram = "CryptoYC"
+
+
+[[menu.main]]
+name = "Blog"
+url = ""
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "page/about/"
+weight = 2
