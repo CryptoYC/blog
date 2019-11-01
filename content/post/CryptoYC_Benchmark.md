@@ -67,5 +67,5 @@ This is our Benchmark test report, which is not perfect, but we will continue to
 
 Catch with CryptoYC: [Twitter](https://twitter.com/CryptoYC), [Telegram](https://t.me/CryptoYC), [Github](https://github.com/CryptoYC)，[Weibo](https://www.weibo.com/CryptoYC) .
 
-![CryptoYC Benchmark](/img/1_l5LVPZQMPTjSRGXNuuxyfg.png)
+![CryptoYC Benchmark](/img/1_l5LVPZQMPTjSRGXNuuxyfg.jpg)
 
